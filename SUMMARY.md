@@ -5,7 +5,8 @@
 
 ## test3
 
-* [Page 3](test3/page-3.md)
+* [Page 3](test3/page-3/README.md)
+  * [Page 5](test3/page-3/page-5.md)
 
 ## test4
 
